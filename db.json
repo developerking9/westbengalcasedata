@@ -2,13 +2,17 @@
   "wbcasedata": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Namewb": "West Bengal (पश्चिम बंगाल)",
+      "TotalCaseswb": "1583792",
+      "TotalDeathswb": "34968",
+      "TotalRecoveredwb": "1020582",
+      "TotalCasesowb": "1.58M",
+      "TotalDeathswwb": "34.96K",
+      "TotalRecoveredrwb": "1.02M",
+      "TotalIncwb": "52.12K+",
+      "TotalDecwb": "775+",
+      "TotalRecwb": "32.55K+",
+      "Conditionwb": "Need to improve"
     }
   ]
 }
